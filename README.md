@@ -10,4 +10,6 @@ This program is developed using Python 2.7
 3.urllib  
 4.BeautifulSoup  
 5.email  
+6.MIMEMultipart  
+7.MIMEText  
 
